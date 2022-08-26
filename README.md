@@ -3,9 +3,7 @@
 - 🔭 Hoje trabalho com Frontend
 - 🌱 Tecnologias: React Js, TypeScript, SASS, Styled Components, HTML5, CSS3, JavaScript
 - 🌱 Também tenho experiência com: Backend Node Js, PostgreSql, MongoDB  
-- 🤔 I’m looking for help with ...
 - 💬 Contact: anthonydantas15@gmail.com / +55 82 9 9192-1500
-- 📫 How to reach me: ...
 - 😄 Pronouns: ele/dele
 
 <div align="center">
