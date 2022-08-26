@@ -1,5 +1,5 @@
-###Olá! Eu sou o Anthony D.
-
+## Olá! Eu sou o Anthony D.
+##
 - 🔭 Hoje trabalho com Frontend
 - 🌱 Tecnologias: React Js, TypeScript, SASS, Styled Components, HTML5, CSS3, JavaScript
 - 🌱 Também tenho experiência com: Backend Node Js, PostgreSql, MongoDB  
@@ -27,7 +27,7 @@
   <a href = "mailto:anthonydantas15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anthony-dantas-7a3517178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/JAnthonyDs/JAnthonyDs/blob/output/github-contribution-grid-snake.svg)
-  
  </div>
+  
+  ![Snake animation](https://github.com/JAnthonyDs/JAnthonyDs/blob/output/github-contribution-grid-snake.svg)
 
