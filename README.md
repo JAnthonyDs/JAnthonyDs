@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Anthony D.
 ##
-- 🔭 Hoje trabalho com Frontend
-- 🌱 Tecnologias: React Js, TypeScript, SASS, Styled Components, HTML5, CSS3, JavaScript
-- 🌱 Também tenho experiência com: Backend Node Js, PostgreSql, MongoDB  
+- 🔭 Hoje trabalho com IA na aréa de Visão Computacional
+- 🌱 Tecnologias: Pytorch, MMaction, YOLO
+- 🌱 Também tenho experiência com: Algoritmos de Machine Learning
 - 💬 Contact: anthonydantas15@gmail.com / +55 82 9 9192-1500
 - 😄 Pronouns: ele/dele
 
