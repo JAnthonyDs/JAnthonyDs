@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Anthony D.
 ##
 - 🔭 Hoje trabalho com IA na aréa de Visão Computacional
-- 🌱 Tecnologias: Pytorch, MMaction, YOLO
+- 🌱 Tecnologias: Pytorch, OpenCV, YOLO, TensorFlow
 - 🌱 Também tenho experiência com: Algoritmos de Machine Learning e criação de api para modelos.
 - 💬 Contact: anthonydantas15@gmail.com / +55 82 9 9192-1500
 - 😄 Pronouns: ele/dele
