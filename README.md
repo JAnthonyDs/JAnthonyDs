@@ -1,53 +1,60 @@
-# Olá, eu sou o Anthony Dantas 👋
-### Especialista em Inteligência Artificial | Visão Computacional
-
-Sou um desenvolvedor apaixonado por transformar dados visuais em soluções inteligentes e funcionais. Minha carreira é focada em **Inteligência Artificial**, com especialização em **Visão Computacional**, onde utilizo tecnologias de ponta como PyTorch, TensorFlow e YOLO para resolver problemas complexos.
-
-Além da minha expertise em IA, possuo sólida experiência em **desenvolvimento web**, construindo e implantando APIs REST robustas com **FastAPI** e **Node.js**, e criando interfaces dinâmicas com **React.js**. Meu objetivo é sempre conectar o poder dos modelos de Machine Learning com aplicações práticas e acessíveis, cobrindo todo o ciclo de vida de um projeto, do treinamento à produção.
-
-- 🔭 Atualmente focado em projetos de **Visão Computacional**.
-- 🌱 Sempre aprendendo e aprimorando minhas habilidades em arquiteturas de IA e desenvolvimento de software.
-- 😄 Pronomes: Ele/Dele
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <p><strong>Visão Computacional & IA:</strong></p>
-  <img align="center" alt="PyTorch" height="30" width="40" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-  <img align="center" alt="TensorFlow" height="30" width="40" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  <img align="center" alt="OpenCV" height="30" width="40" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img align="center" alt="YOLO" height="30" width="40" src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black">
-  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-  <p><strong>Desenvolvimento Web & API:</strong></p>
-  <img align="center" alt="FastAPI" height="30" width="40" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="React" height="30" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="REST API" height="30" width="40" src="https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=sensu&logoColor=white">
+<div id="user-content-toc">
+  <h1 align="center">Olá, eu sou o Anthony Dantas 👋</h1>
 </div>
 
----
+<div align="center">
+  <p align="center">
+    <strong>Engenheiro de IA com 3 anos de experiência | Especialista em Visão Computacional & Soluções Full-Stack</strong>
+  </p>
+</div>
 
-## 📊 Estatísticas do GitHub
+<p align="center">
+  Sou um desenvolvedor apaixonado por transformar dados visuais em soluções inteligentes e funcionais. Minha carreira é focada em <strong>Inteligência Artificial</strong>, com especialização em <strong>Visão Computacional</strong>, onde utilizo tecnologias de ponta para resolver problemas complexos e entregar produtos de alto valor.
+</p>
 
 <div align="center">
-  <a href="https://github.com/JAnthonyDs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janthonyds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janthonyds&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="mailto:anthonydantas15@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/anthony-dantas-7a3517178/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 
 ---
 
-## 📫 Entre em Contato
+### 🚀 Minhas Tecnologias
 
-<p align="left">
-Sinta-se à vontade para se conectar ou me enviar uma mensagem!
-<br><br>
-<a href="mailto:anthonydantas15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/anthony-dantas-7a3517178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="center">
+  <strong>Visão Computacional & IA:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <br><br>
+  <strong>Desenvolvimento Web & API:</strong><br>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-![Snake animation](https://github.com/janthonyds/janthonyds/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🏆 Conquistas e Estatísticas
+
+<div align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=janthonyds&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+<div align="center">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=janthonyds&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janthonyds&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  ![Snake animation](https://github.com/janthonyds/janthonyds/blob/output/github-contribution-grid-snake.svg)
+</div>
