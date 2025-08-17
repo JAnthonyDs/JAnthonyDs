@@ -1,5 +1,5 @@
 # Olá, eu sou o Anthony Dantas 👋
-### Especialista em Inteligência Artificial | Visão Computacional & Desenvolvimento Full-Stack
+### Especialista em Inteligência Artificial | Visão Computacional
 
 Sou um desenvolvedor apaixonado por transformar dados visuais em soluções inteligentes e funcionais. Minha carreira é focada em **Inteligência Artificial**, com especialização em **Visão Computacional**, onde utilizo tecnologias de ponta como PyTorch, TensorFlow e YOLO para resolver problemas complexos.
 
